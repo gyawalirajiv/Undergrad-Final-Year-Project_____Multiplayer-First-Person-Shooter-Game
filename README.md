@@ -6,3 +6,4 @@ Class Diagram Link: https://github.com/gyawalirajiv/Undergrad-Final-Year-Project
 
 Demo: https://youtu.be/E6RbQOuc5lQ
 
+Build: https://github.com/gyawalirajiv/Undergrad-Final-Year-Project_____Multiplayer-First-Person-Shooter-Game/releases/tag/1.0
